@@ -1,3 +1,7 @@
+> [!NOTE]  
+> This repository has a sister repo - PolybotInfra
+> Take a look at it to understand how Polybot is deployed
+
 # The Polybot Service: Kubernetes Project
 
 ## Background and goals

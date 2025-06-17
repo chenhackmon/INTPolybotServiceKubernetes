@@ -1,5 +1,12 @@
+# Application required modules
 pyTelegramBotAPI>=4.12.0
 loguru>=0.7.0
 requests>=2.31.0
 flask>=2.3.2
-matplotlib
+# AWS integration required modules
+boto3
+botocore
+# Extras
+loguru
+# Polybot microservices interaction required modules
+pymongo
